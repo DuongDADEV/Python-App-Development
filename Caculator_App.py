@@ -83,4 +83,4 @@ if __name__ in "__main__":
     main_window.show()
     app.exec_()
 
-print("Trần Thành Dương")
+print("Trần Thành Dương 03/06/2004")
