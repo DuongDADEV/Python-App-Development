@@ -82,3 +82,5 @@ if __name__ in "__main__":
     main_window = CalcApp()
     main_window.show()
     app.exec_()
+
+print("Trần Thành Dương")
